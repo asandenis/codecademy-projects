@@ -42,6 +42,7 @@
 <pre>
 <code>
 git clone https://github.com/asandenis/codecademy-projects.git
+pip install pandas, matplotlib, scikit-learn
 </code>
 </pre>
 
