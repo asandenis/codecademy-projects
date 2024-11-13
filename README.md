@@ -1,7 +1,6 @@
 <h1 style="color: #4A90E2; border-bottom: 2px solid #4A90E2;">codecademy projects</h1>
 
 <h3 style="color: #555;">A list of all the required projects I developed as part of codecademy courses.</h3>
-<a href="https://asandenis.dev/">Visit on asandenis.dev</a>
 
 <p align="center">
   <img src="https://i.imgur.com/vKACaSs.png" width="400" alt="codecademy projects Logo">
